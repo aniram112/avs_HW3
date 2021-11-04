@@ -1,0 +1,9 @@
+Container is store 8 cyphers:
+numbers cypher: cyphered text = 152304911 , decyphered text = friendsff. function result = 105.67
+cyclic cypher: cyphered text = alphabet , decyphered text = kvzrklo~. function result = 114.12
+cyclic cypher: cyphered text = test , decyphered text = yjxy. function result = 117.0
+symbols cypher: cyphered text = test , decyphered text = qrweqr. function result = 112.33
+symbols cypher: cyphered text = rule , decyphered text = make. function result = 103.5
+cyclic cypher: cyphered text = fdhsjghdk , decyphered text = omq|spqmt. function result = 113.56
+numbers cypher: cyphered text = 1523049 , decyphered text = friend. function result = 105.33
+cyclic cypher: cyphered text = abcdefgh , decyphered text = cdefghij. function result = 102.5

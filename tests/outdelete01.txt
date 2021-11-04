@@ -1,0 +1,5 @@
+Container is store 4 cyphers:
+cyclic cypher: cyphered text = cycle , decyphered text = h~hqj. function result = 110.6
+symbols cypher: cyphered text = test , decyphered text = qrweqr. function result = 112.33
+cyclic cypher: cyphered text = abc , decyphered text = cde. function result = 100.0
+symbols cypher: cyphered text = abce , decyphered text = qwrw. function result = 116.25

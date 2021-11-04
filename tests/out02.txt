@@ -1,0 +1,15 @@
+Container is store 14 cyphers:
+symbols cypher: cyphered text = abc , decyphered text = bcd. function result = 99.0
+numbers cypher: cyphered text = 152304911 , decyphered text = friendsff. function result = 105.67
+cyclic cypher: cyphered text = alphabet , decyphered text = kvzrklo~. function result = 114.12
+symbols cypher: cyphered text = hse , decyphered text = dfg. function result = 101.67
+cyclic cypher: cyphered text = test , decyphered text = yjxy. function result = 117.0
+numbers cypher: cyphered text = 123 , decyphered text = abc. function result = 98.0
+symbols cypher: cyphered text = test , decyphered text = qrweqr. function result = 112.33
+cyclic cypher: cyphered text = abc , decyphered text = cde. function result = 100.0
+symbols cypher: cyphered text = rule , decyphered text = make. function result = 103.5
+cyclic cypher: cyphered text = fdhsjghdk , decyphered text = omq|spqmt. function result = 113.56
+numbers cypher: cyphered text = 1523049 , decyphered text = friend. function result = 105.33
+cyclic cypher: cyphered text = abcdefgh , decyphered text = bcdefghi. function result = 101.5
+cyclic cypher: cyphered text = abcdefgh , decyphered text = cdefghij. function result = 102.5
+cyclic cypher: cyphered text = ab , decyphered text = bc. function result = 98.5
